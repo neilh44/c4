@@ -34,7 +34,7 @@ Ensure these libraries are installed in your Python environment before running t
 
 ## How to Run
 
-1. Install dependencies using `pip install streamlit langchain`.
+1. Install dependencies using `pip install langchain streamlit streamlit_chat chromadb pypdf`.
 2. Run the Streamlit app with `streamlit run app.py`.
 3. Upload a PDF document to initiate the chatbot and start interacting.
 
